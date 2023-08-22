@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e5e8ec;
+}
+
+.mt-2 {
+  width: 25px;
+  height: 20px;
+}
+
+.operation-container {
+  background-color: #ff9000;
+  padding: 40px;
+  margin-top: 50px;
+  border-radius: 15px;
+  box-shadow: 0 0 5px 3px black;
+}
+
+
+.bank {
+  margin-top: -100px;
+}
